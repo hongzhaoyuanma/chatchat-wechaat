@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetUserLists", "GetUserList
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SendXmlMessage", "SendXmlMessage\SendXmlMessage.vcxproj", "{EAD45212-4447-42D7-BAE1-C18D1827EDE7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecvMessage", "RecvMessage\RecvMessage.vcxproj", "{45CA6BED-2065-4769-A2DC-2647E81148F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{EAD45212-4447-42D7-BAE1-C18D1827EDE7}.Release|x64.Build.0 = Release|x64
 		{EAD45212-4447-42D7-BAE1-C18D1827EDE7}.Release|x86.ActiveCfg = Release|Win32
 		{EAD45212-4447-42D7-BAE1-C18D1827EDE7}.Release|x86.Build.0 = Release|Win32
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Debug|x64.ActiveCfg = Debug|x64
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Debug|x64.Build.0 = Debug|x64
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Debug|x86.Build.0 = Debug|Win32
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Release|x64.ActiveCfg = Release|x64
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Release|x64.Build.0 = Release|x64
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Release|x86.ActiveCfg = Release|Win32
+		{45CA6BED-2065-4769-A2DC-2647E81148F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
